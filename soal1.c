@@ -65,7 +65,7 @@ int main() {
         printf("%s ",artefak[i].nama);
         printf("%s ",artefak[i].kategori);
         printf("%d ",artefak[i].tahun);
-        printf("%d \n",artefak[i].nilai);
+        printf("%d\n",artefak[i].nilai);
     }
 
 }
