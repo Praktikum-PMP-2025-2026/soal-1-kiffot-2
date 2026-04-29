@@ -1,9 +1,9 @@
 /** EL2008 Praktikum Pemecahan Masalah dengan Pemrograman 2024/2025
  *   Modul               : 2
  *   Hari dan Tanggal    : Rabu, 29 April 2026
- *   Nama (NIM)          : 13224086
- *   Nama File           : soal2.c
- *   Deskripsi           : inventori item
+ *   Nama (NIM)          : Kristheoren Clifford 13224086
+ *   Nama File           : soal1.c
+ *   Deskripsi           : inventori item, mengurutkan
  * 
  */
 
